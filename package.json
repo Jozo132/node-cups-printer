@@ -1,0 +1,24 @@
+{
+  "name": "node-cups-printer",
+  "version": "0.0.1",
+  "description": "Node.JS CUPS printer alternative to 'node-printer'",
+  "main": "node-cups-printer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jozo132/node-cups-printer.git"
+  },
+  "keywords": [
+    "CUPS",
+    "printer",
+    "print"
+  ],
+  "author": "J.Vovk",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Jozo132/node-cups-printer/issues"
+  },
+  "homepage": "https://github.com/Jozo132/node-cups-printer#readme"
+}
