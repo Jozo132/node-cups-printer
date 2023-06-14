@@ -1,7 +1,7 @@
 // @ts-check
 'use strict'
 
-const printer = require('./node-cups-printer')
+const printer = require('./vovk-cups-printer')
 
 const main = async () => {
     const printers = printer.getPrinters()

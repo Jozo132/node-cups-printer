@@ -1,8 +1,8 @@
 {
-  "name": "node-cups-printer",
+  "name": "vovk-cups-printer",
   "version": "0.0.1",
   "description": "Node.JS CUPS printer alternative to 'node-printer'",
-  "main": "node-cups-printer.js",
+  "main": "vovk-cups-printer.js",
   "scripts": {
     "test": "echo \"Error: no test specified\""
   },
